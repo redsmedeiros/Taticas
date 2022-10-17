@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header{
+  background-color: rgb(19, 124, 89);
+  color: white;
+  text-align: center;
+}
